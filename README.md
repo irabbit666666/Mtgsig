@@ -1,4 +1,4 @@
 # Mtgsig
-美团小程序 mtgsig1.1算法
+mtgsig2.3算法   20k
 
 vx:irabbit666
