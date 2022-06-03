@@ -1,4 +1,4 @@
 # Mtgsig
-mtgsig2.3算法   20k
+mtgsig2.3算法
 
 vx:irabbit666
